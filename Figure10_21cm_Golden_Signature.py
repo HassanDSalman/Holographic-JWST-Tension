@@ -17,7 +17,7 @@ rcParams['ytick.right'] = True
 # --- Physical Model Parameters ---
 k = np.logspace(-1.5, 1.5, 500)
 k_star = 1.0
-amplitude = 150.0  # تم التصحيح ليكون 150% مطابقاً للورقة النهائية
+amplitude = 150.0  # Corrected to 150% to match the final paper
 width = 0.4
 
 # Models
@@ -58,7 +58,7 @@ ax.text(k_star, -15, r'$k_* \approx 1$ Mpc$^{-1}$', color='#009E73', ha='center'
 # --- Formatting ---
 ax.set_xscale('log')
 ax.set_xlim(0.03, 15)
-ax.set_ylim(-20, 220) # تم تعديل المقياس ليناسب الـ 150%
+ax.set_ylim(-20, 220) 
 ax.set_xlabel(r'Wavenumber $k$ [Mpc$^{-1}$]', fontsize=14, fontweight='bold')
 ax.set_ylabel(r'21cm Power Spectrum Enhancement (%)', fontsize=14, fontweight='bold')
 
