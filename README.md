@@ -1,7 +1,7 @@
 # Holographic Complexity and the JWST Tension
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18527237.svg)](https://doi.org/10.5281/zenodo.18527237)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Official Python implementation for: "A Thermodynamic Resolution from Emergent Spacetime"**
 
@@ -94,4 +94,8 @@ Salman, H. D. (2026). Holographic Complexity and the JWST Tension: A Thermodynam
 
 ---
 
-This project is licensed under the Creative Commons Attribution 4.0 International License.
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+The theoretical concepts and the paper itself are associated with the Creative Commons Attribution 4.0 International License as archived on Zenodo.
