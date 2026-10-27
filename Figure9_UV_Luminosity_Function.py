@@ -1,3 +1,7 @@
+# NOTE (Oct 2026): ILLUSTRATIVE ONLY. The curves and "data" points in this script were set by hand
+# (not computed from the model). Do not treat the plotted numbers as results.
+# See ../halo_abundance_check.py for the actual calculation.
+
 # --- START OF FILE Figure9_UV_Luminosity_Function.py ---
 
 import numpy as np
